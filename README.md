@@ -1,13 +1,13 @@
 ## Built Blog with Modren JavaScript - NextJS and Strapi
 
-#Tech Stacks: 👇
+### Tech Stacks: 👇
 
 - Nextjs
 - Tailwind Css
 - Redux
 - Strapi Headless CMS
 
-#Installation 👇
+### Installation 👇
 
 ```bash
 npm install
@@ -15,7 +15,8 @@ npm install
 yarn install
 ```
 
-#Run Project on Development Environment 👇
+### Run Project on Development Environment 👇
+
 First, run the development server:
 
 ```bash
@@ -24,7 +25,7 @@ npm run dev
 yarn dev
 ```
 
-#Make a Build 👇
+### Make a Build 👇
 
 ```bash
 npm run build
@@ -32,7 +33,7 @@ npm run build
 yarn build
 ```
 
-#Run Project on Production Environment 👇
+### Run Project on Production Environment 👇
 
 ```bash
 npm run start
@@ -40,13 +41,13 @@ npm run start
 yarn start
 ```
 
-#Tutorials on Youtube
+### Tutorials on Youtube
 
-- Learn ReactJs Full Course\
+- **Learn ReactJs Full Course**
 
 [![Learn ReactJs](https://img.youtube.com/vi/wL8k4v8mutY/0.jpg)](https://www.youtube.com/playlist?list=PLIvjAQSG0vtwn_VuFiE9NubnKfQ0ymNjs)
 
-- Learn Git Full Course\
+- **Learn Git Full Course**
 
 [![Learn Git and Github](https://img.youtube.com/vi/DnPy_o8LlTk/0.jpg)](https://www.youtube.com/playlist?list=PLIvjAQSG0vtyDkUfKcPcs-oeH7kU6OZQ4)
 
